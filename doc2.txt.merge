@@ -1,0 +1,34 @@
+0	1	American	American	NNP	compound	2	ORGANIZATION	 (ROOT (S (S (NP (NNP American)	1
+0	2	Telephone	Telephone	NNP	nsubj	6	ORGANIZATION	 (NNP Telephone)	1
+0	3	&	&	CC	cc	5	ORGANIZATION	 (CC &)	1
+0	4	Telegraph	Telegraph	NNP	compound	5	ORGANIZATION	 (NNP Telegraph)	1
+0	5	Co.	Co.	NNP	conj	2	ORGANIZATION	 (NNP Co.))	1
+0	6	said	say	VBD	root	0	O	 (VP (VBD said)	1
+0	7	it	it	PRP	nsubj	9	O	 (SBAR (S (NP (PRP it))	2
+0	8	will	will	MD	aux	9	O	 (VP (MD will)	2
+0	9	lay	lay	VB	ccomp	6	O	 (VP (VB lay)	2
+0	10	off	off	RP	compound:prt	9	O	 (PRT (RP off))	2
+0	11	75	75	CD	compound	13	NUMBER	 (NP (QP (CD 75)	2
+0	12	to	to	IN	advmod	13	O	 (IN to)	2
+0	13	85	85	CD	nummod	14	NUMBER	 (CD 85))	2
+0	14	technicians	technician	NNS	obj	9	O	 (NNS technicians))	2
+0	15	here,	here,	RB	advmod	9	O	 (ADVP (RB here,))	2
+0	16	effective	effective	JJ	amod	17	O	 (NP-TMP (JJ effective)	2
+0	17	Nov.	Nov.	NNP	obl:tmod	9	DATE	 (NNP Nov.))))))))	2
+0	18	1.	1.	LS	dep	21	DATE	 (S (LST (LS 1.))	2
+0	19	The	the	DT	det	20	O	 (NP (DT The)	3
+0	20	workers	worker	NNS	nsubj	21	O	 (NNS workers))	3
+0	21	install,	install,	VBP	parataxis	6	O	 (VP (VBP install,)	3
+0	22	maintain	maintain	VB	xcomp	21	O	 (VP (VB maintain)	3
+0	23	and	and	CC	cc	24	O	 (CC and)	4
+0	24	repair	repair	VB	conj	22	O	 (VB repair)	4
+0	25	its	its	PRP$	nmod:poss	28	O	 (NP (NP (PRP$ its)	4
+0	26	private	private	JJ	amod	28	O	 (JJ private)	4
+0	27	branch	branch	NN	compound	28	O	 (NN branch)	4
+0	28	exchanges,	exchanges,	NN	obj	22	O	 (NN exchanges,))	5
+0	29	which	which	WDT	nsubj	34	O	 (SBAR (WHNP (WDT which))	5
+0	30	are	be	VBP	cop	34	O	 (S (VP (VBP are)	5
+0	31	large	large	JJ	amod	34	O	 (NP (JJ large)	5
+0	32	intracompany	intracompany	JJ	amod	34	O	 (JJ intracompany)	5
+0	33	telephone	telephone	NN	compound	34	O	 (NN telephone)	5
+0	34	networks.	networks.	NN	acl:relcl	28	O	 (NN networks.)))))))))))	5
