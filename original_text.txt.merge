@@ -1,0 +1,106 @@
+0	1	The	the	DT	det	2	O	 (ROOT (S (PRN (S (NP (DT The)	1
+0	2	Celtics	Celtics	NNPS	nsubj	3	ORGANIZATION	 (NNPS Celtics))	1
+0	3	made	make	VBD	parataxis	26	O	 (VP (VBD made)	1
+0	4	seven	seven	CD	nummod	6	NUMBER	 (NP (CD seven)	1
+0	5	consecutive	consecutive	JJ	amod	6	O	 (JJ consecutive)	1
+0	6	3s	3	NNS	obj	3	O	 (NNS 3s))	1
+0	7	to	to	TO	mark	8	O	 (S (VP (TO to)	2
+0	8	start	start	VB	advcl	3	O	 (VP (VB start)	2
+0	9	the	the	DT	det	11	O	 (NP (DT the)	2
+0	10	fourth	fourth	JJ	amod	11	ORDINAL	 (JJ fourth)	2
+0	11	quarter,	quarter,	NN	obj	8	O	 (NN quarter,))	2
+0	12	flipping	flip	VBG	xcomp	8	O	 (S (VP (VBG flipping)	2
+0	13	a	a	DT	det	15	O	 (NP (DT a)	2
+0	14	double-digit	double-digit	JJ	amod	15	O	 (JJ double-digit)	2
+0	15	deficit	deficit	NN	obj	12	O	 (NN deficit))	2
+0	16	at	at	IN	case	18	O	 (PP (IN at)	2
+0	17	the	the	DT	det	18	DATE	 (NP (NP (DT the)	2
+0	18	beginning	beginning	NN	obl	12	DATE	 (NN beginning))	2
+0	19	of	of	IN	case	21	DATE	 (PP (IN of)	2
+0	20	the	the	DT	det	21	DATE	 (NP (DT the)	2
+0	21	quarter	quarter	NN	nmod	18	DATE	 (NN quarter)))))	2
+0	22	into	into	IN	case	24	O	 (PP (IN into)	2
+0	23	a	a	DT	det	24	O	 (NP (DT a)	2
+0	24	lead	lead	NN	obl	12	O	 (NN lead)))))))))))	2
+0	25	they	they	PRP	nsubj	26	O	 (NP (PRP they))	2
+0	26	turned	turn	VBD	root	0	O	 (VP (VBD turned)	2
+0	27	into	into	IN	case	29	O	 (PP (IN into)	2
+0	28	a	a	DT	det	29	O	 (NP (DT a)	2
+0	29	victory.	victory.	NN	obl	26	O	 (NN victory.))))))	2
+
+1	1	Boston	Boston	NNP	nsubj	2	CITY	 (ROOT (S (S (NP (NNP Boston))	3
+1	2	stunned	stun	VBD	root	0	O	 (VP (VBD stunned)	3
+1	3	Golden	Golden	NNP	compound	4	ORGANIZATION	 (NP (NNP Golden)	3
+1	4	State	State	NNP	obj	2	ORGANIZATION	 (NNP State)	3
+1	5	120-108	120-108	CD	nummod	4	NUMBER	 (CD 120-108))	3
+1	6	in	in	IN	case	7	O	 (PP (IN in)	3
+1	7	Game	game	NN	obl	2	O	 (NP (NP (NN Game)	3
+1	8	1	1	CD	nummod	7	NUMBER	 (CD 1))	3
+1	9	of	of	IN	case	12	O	 (PP (IN of)	3
+1	10	the	the	DT	det	12	O	 (NP (DT the)	3
+1	11	NBA	NBA	NNP	compound	12	ORGANIZATION	 (NNP NBA)	3
+1	12	Finals	Finals	NNPS	nmod	7	O	 (NNPS Finals)))))	3
+1	13	on	on	IN	case	14	O	 (PP (IN on)	3
+1	14	Thursday,	Thursday,	NNP	obl	2	O	 (NP (NNP Thursday,)))))	3
+1	15	and	and	CC	cc	18	O	 (CC and)	3
+1	16	the	the	DT	det	17	O	 (S (NP (DT the)	3
+1	17	Celtics	Celtics	NNPS	nsubj	18	ORGANIZATION	 (NNPS Celtics))	3
+1	18	pummeled	pummel	VBD	conj	2	O	 (VP (VBD pummeled)	3
+1	19	the	the	DT	det	20	O	 (NP (DT the)	3
+1	20	Warriors	warrior	NNS	obj	18	O	 (NNS Warriors))	3
+1	21	in	in	IN	case	24	O	 (PP (IN in)	3
+1	22	the	the	DT	det	24	DURATION	 (NP (DT the)	3
+1	23	final	final	JJ	amod	24	DURATION	 (JJ final)	3
+1	24	quarter	quarter	NN	obl	18	DURATION	 (NN quarter)))	3
+1	25	the	the	DT	det	27	O	 (NP-TMP (NP (DT the)	3
+1	26	same	same	JJ	amod	27	O	 (JJ same)	3
+1	27	way	way	NN	obl:tmod	18	O	 (NN way))	3
+1	28	the	the	DT	det	29	O	 (SBAR (S (NP (DT the)	3
+1	29	Warriors	warrior	NNS	nsubj	31	O	 (NNS Warriors))	3
+1	30	have	have	VBP	aux	31	O	 (VP (VBP have)	3
+1	31	buried	bury	VBN	acl:relcl	27	O	 (VP (VBN buried)	3
+1	32	so	so	RB	advmod	33	O	 (NP (ADJP (RB so)	3
+1	33	many	many	JJ	amod	34	O	 (JJ many))	3
+1	34	teams	team	NNS	obj	31	O	 (NNS teams))	3
+1	35	over	over	IN	case	37	O	 (PP (IN over)	3
+1	36	the	the	DT	det	37	DURATION	 (NP (NP (DT the)	3
+1	37	years	year	NNS	obl	31	DURATION	 (NNS years))	3
+1	38	in	in	IN	case	40	O	 (PP (IN in)	3
+1	39	the	the	DT	det	40	O	 (NP (NP (DT the)	3
+1	40	playoffs:	playoffs:	NN	nmod	37	O	 (NN playoffs:))	3
+1	41	with	with	IN	case	46	O	 (PP (IN with)	3
+1	42	brilliant	brilliant	JJ	amod	46	O	 (NP (JJ brilliant)	3
+1	43	shooting	shooting	NN	compound	46	CAUSE_OF_DEATH	 (NML (NN shooting)	3
+1	44	and	and	CC	cc	45	O	 (CC and)	3
+1	45	quality	quality	NN	conj	43	O	 (NN quality))	3
+1	46	defense.	defense.	NN	nmod	40	O	 (NN defense.))))))))))))))))	3
+
+2	1	It	it	PRP	nsubj	5	O	 (ROOT (S (PRN (S (NP (PRP It))	4
+2	2	was	be	VBD	cop	5	O	 (VP (VBD was)	4
+2	3	an	a	DT	det	5	O	 (NP (NP (DT an)	4
+2	4	unconventional	unconventional	JJ	amod	5	O	 (JJ unconventional)	4
+2	5	win	win	NN	parataxis	28	O	 (NN win))	4
+2	6	for	for	IN	case	9	O	 (PP (IN for)	4
+2	7	the	the	DT	det	9	O	 (NP (DT the)	4
+2	8	Celtics,	Celtics,	NNP	compound	9	O	 (NNP Celtics,)	4
+2	9	too,	too,	NN	nmod	5	O	 (NN too,))))	4
+2	10	with	with	IN	case	13	O	 (PP (IN with)	4
+2	11	their	they	PRP$	nmod:poss	13	O	 (NP (NP (NP (PRP$ their)	4
+2	12	best	best	JJS	amod	13	O	 (JJS best)	4
+2	13	player,	player,	NN	obl	5	O	 (NN player,))	4
+2	14	Jayson	Jayson	NNP	compound	15	PERSON	 (NP (NNP Jayson)	4
+2	15	Tatum,	Tatum,	NNP	dep	13	PERSON	 (NNP Tatum,)))	4
+2	16	scoring	score	VBG	acl	13	O	 (VP (VBG scoring)	5
+2	17	just	just	RB	advmod	19	O	 (PP (NP (RB just)	5
+2	18	12	12	CD	nummod	19	NUMBER	 (CD 12)	5
+2	19	points	point	NNS	obl	16	O	 (NNS points))	5
+2	20	on	on	IN	case	19	O	 (IN on)	5
+2	21	3-for-17	3-for-17	JJ	amod	23	O	 (NP (JJ 3-for-17)	5
+2	22	shooting.	shooting.	NN	compound	23	O	 (NN shooting.)	5
+2	23	Bostons	bostons	NNS	dep	19	O	 (NNS Bostons)))))))))	5
+2	24	offensive	offensive	JJ	amod	25	O	 (NP (JJ offensive)	5
+2	25	versatility	versatility	NN	nsubj	28	O	 (NN versatility))	5
+2	26	was	be	VBD	cop	28	O	 (VP (VBD was)	5
+2	27	on	on	IN	case	28	O	 (PP (IN on)	5
+2	28	display.	display.	NN	root	0	O	 (NP (NN display.))))))	5
+
